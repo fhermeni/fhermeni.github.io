@@ -70,7 +70,7 @@ p {
     text-align: justify
 }
 
-.reverse span {
+.reverse /*span*/ {
     background-color: #333;
     color: #eee;
     padding: 0px 10px;
