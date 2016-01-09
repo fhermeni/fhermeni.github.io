@@ -539,6 +539,10 @@ fieldset[disabled] .btn-primary.active {
 .logo img {
     width: 48px;
 }
+
+.logo i {
+    color: #333;
+}
 .logo p {
     font-size: 12px;
 }
