@@ -555,7 +555,9 @@ fieldset[disabled] .btn-primary.active {
     font-size: 12px;
 }
 
-
+#publications li {
+    text-align: justify;
+}
 img::selection {
     color: #fff;
     background: 0 0;
