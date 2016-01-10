@@ -294,6 +294,14 @@ portfolio-box img {
     width: 220px;
 }
 
+.with-me {
+    background-image: url('../img/me-100.jpg');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 88px;
+    padding-right: 100px;
+}
+
 .portfolio-box .portfolio-box-caption {
     display: block;
     position: absolute;
