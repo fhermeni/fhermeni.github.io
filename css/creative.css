@@ -545,7 +545,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .logo img {
-    width: 48px;
+    width: 48px;    
 }
 
 .logo i {
@@ -555,10 +555,6 @@ fieldset[disabled] .btn-primary.active {
     font-size: 12px;
 }
 
-.logo {
-    margin-top: 2em;
-    margin-bottom: 2em;
-}
 
 img::selection {
     color: #fff;
