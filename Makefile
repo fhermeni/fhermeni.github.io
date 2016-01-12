@@ -8,7 +8,7 @@ cv:
 deploy: cv check
 	@git add misc/*
 	@git add pubs/*
-	@git commit -m "refresh" -a
+	@git commit -m "refresh pubs or CV" -a
 	@git push
 
 check:
