@@ -2,7 +2,7 @@
 .PHONY: deploy
 
 cv:
-	@cp ~/Documents/Admin/CV/cv.pdf misc/
+	@cp ~/Documents/Admin/CV/cv.pdf misc/fabien_hermenier.pdf
 	@cp ~/Documents/Admin/CV/bibliography.bib pubs/
 
 deploy: cv check
