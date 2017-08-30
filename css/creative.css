@@ -20,6 +20,9 @@ hr {
     border-width: 3px;
 }
 
+.old {
+	opacity: 0.2;
+}
 .bg-primary hr,
 hr.light {
     border-color: #fff;
@@ -29,7 +32,7 @@ hr.dark {
     border-color: #333;
 }
 a {
-    color: #f05f40;
+    color: #f05f40;	
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
